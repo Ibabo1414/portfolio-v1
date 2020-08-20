@@ -9,7 +9,6 @@ header{
 }
 
 /* -------------------------------------------Slideout Sidebar----------------------------------------*/
-
 .slideout-sidebar {
   position: fixed;
   top: 0;
@@ -27,7 +26,6 @@ header{
   margin: 0;
   padding: 0;
 }
-
 .slideout-sidebar ul li {
   cursor: pointer;
   padding: 18px 0;
@@ -78,9 +76,6 @@ i{
 }
 /* ----------------------------------------------- end of my Menu Icon-------------------------------------*/
 /*------------------------------------------start of my header-ymii---------------------------------*/
-
-
-
 .ligne1{
   margin-left: 420px;
   margin-right: 420px;
@@ -92,8 +87,6 @@ i{
   margin-right: 420px;
   border: 3px solid #fff;
 }
-
-
 .issouimg > img{
   position: absolute;
   width: 300px;
@@ -102,7 +95,6 @@ i{
   margin-left: 1000px;;
   color: #fff;
 }
-
 
 .ibaboimg{
   position: absolute;
